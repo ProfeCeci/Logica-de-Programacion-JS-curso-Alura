@@ -1,4 +1,4 @@
-# Logica-de-Programacion-JS-curso-Alura
+# Logica de Programacion 1 JavaScript
 Desafíos y proyectos de aula del curso "Lógica de programación: sumérgete en la programación con JavaScript" de Alura Latam
 
 Aula 1:
@@ -26,3 +26,11 @@ Aula 4
 * Aprendimos a evitar código duplicado utilizando estrategias para mostrar la palabra “intento” en singular o plural, dependiendo del número de intentos realizados.
 * Analizamos la documentación y encontramos información relevante para el desarrollo de nuestro programa.
 * Descubrimos cómo emplear la función Math.random() para generar un número aleatorio, lo que permite la creación de desafíos y juegos más dinámicos y variados.
+
+# Logica de Programacion 2 JavaScript
+
+Aula 1:
+
+* Cargamos el proyecto con HTML y CSS para crear la estructura y el estilo de la página que usaremos durante el curso.
+* Aprendimos a manipular el contenido de los elementos HTML, como H1 y párrafos (p), utilizando JavaScript para cambiar dinámicamente el texto mostrado en la página.
+* Comprendimos la importancia de la interacción entre HTML y JavaScript para crear páginas web dinámicas e interactivas.
